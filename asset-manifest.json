@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/cheating/static/css/main.724afae0.css",
-    "main.js": "/cheating/static/js/main.a0bac255.js",
+    "main.js": "/cheating/static/js/main.ca076219.js",
     "static/js/453.c4428f1e.chunk.js": "/cheating/static/js/453.c4428f1e.chunk.js",
     "index.html": "/cheating/index.html",
     "main.724afae0.css.map": "/cheating/static/css/main.724afae0.css.map",
-    "main.a0bac255.js.map": "/cheating/static/js/main.a0bac255.js.map",
+    "main.ca076219.js.map": "/cheating/static/js/main.ca076219.js.map",
     "453.c4428f1e.chunk.js.map": "/cheating/static/js/453.c4428f1e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.724afae0.css",
-    "static/js/main.a0bac255.js"
+    "static/js/main.ca076219.js"
   ]
 }
